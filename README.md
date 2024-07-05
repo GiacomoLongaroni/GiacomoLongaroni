@@ -18,7 +18,7 @@
 [<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40">](https://numpy.org/) &nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40">](https://pandas.pydata.org/) &nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40">](https://matplotlib.org/) &nbsp;&nbsp;&nbsp;
-[<img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="40" height="40">](https://seaborn.pydata.org/) &nbsp;&nbsp;&nbsp;
+[<img src="https://seaborn.pydata.org/_images/logo-tall-lightbg.svg" alt="Seaborn" width="40" height="40">](https://seaborn.pydata.org/) &nbsp;&nbsp;&nbsp;
 [<img src="https://scipy.org/images/logo.svg" alt="SciPy" width="40" height="40">](https://www.scipy.org/) &nbsp;&nbsp;&nbsp;
 [<img src="https://ggplot2.tidyverse.org/logo.png" alt="ggplot2" width="40" height="40">](https://ggplot2.tidyverse.org/) &nbsp;&nbsp;&nbsp;
 [<img src="https://igraph.org/img/igraph_logo_white.svg" alt="igraph" width="40" height="40">](https://igraph.org/r/) &nbsp;&nbsp;&nbsp;
