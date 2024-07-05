@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+---
+
+### 🛠 &nbsp;Languages and Tools :
 <!--
 **GiacomoLongaroni/GiacomoLongaroni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
