@@ -1,3 +1,5 @@
+[![Mine GitHub stats](https://github-readme-stats.vercel.app/api?username=GiacomoLongaroni)](https://github.com/GiacomoLongaroni/github-readme-stats)
+
 ---
 ### Languages 🚀
 [<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40">](https://docs.python.org/3/) &nbsp;&nbsp;&nbsp;
