@@ -20,7 +20,7 @@
 [<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40">](https://pytorch.org/) &nbsp;&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo.png" alt="PyTorch Geometric" width="40" height="40">](https://pytorch-geometric.readthedocs.io/en/latest/)&nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original-wordmark.svg" alt="Keras" width="40" height="40">](https://keras.io/) &nbsp;&nbsp;&nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" alt="Keras" width="80" height="80">](https://www.tensorflow.org/?hl=it) &nbsp;&nbsp;&nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" alt="Keras" width="40" height="40">](https://www.tensorflow.org/?hl=it) &nbsp;&nbsp;&nbsp;
 
 ### Data Visualization and Manipulation 📊🔧
 [<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40">](https://numpy.org/) &nbsp;&nbsp;&nbsp;
