@@ -1,7 +1,9 @@
 
 ### Languages 🚀
 [<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40">](https://docs.python.org/3/) &nbsp;&nbsp;&nbsp;
-[<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="40" height="40">](https://www.r-project.org)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="40" height="40">](https://www.r-project.org)&nbsp;&nbsp;&nbsp;
+[<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="R" width="40" height="40">](https://en.cppreference.com/w/)
+
 
 ### Tools 🛠️
 [<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40">](https://jupyter.org) &nbsp;&nbsp;&nbsp;
