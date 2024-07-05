@@ -7,7 +7,7 @@
 [<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40">](https://jupyter.org) &nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" alt="Anaconda" width="40" height="40">](https://www.anaconda.com/) &nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40">](https://github.com/)&nbsp;&nbsp;&nbsp;
-[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1220px-Docker_%28container_engine%29_logo.svg.png" alt="Docker" width="40" height="40">](https://www.docker.com) &nbsp;&nbsp;&nbsp;
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/1220px-Docker_%28container_engine%29_logo.svg.png" alt="Docker" width="80" height="40">](https://www.docker.com) &nbsp;&nbsp;&nbsp;
 
 ### Machine Learning Libraries 📚🤖
 [<img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="Sklearn" width="40" height="40">](https://scikit-learn.org/stable/) &nbsp;&nbsp;&nbsp;
