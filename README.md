@@ -3,7 +3,7 @@
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
-<a href="https://docs.python.org/3/" target="_blank">
+<a href="https://docs.python.org/3/">
     <img src="Img/python-original.svg" alt="python" width="40" height="40">
 </a>
 <a href="https://www.r-project.org" target="_blank">
