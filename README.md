@@ -6,6 +6,7 @@
 | Python | R |
 
 ### Tools
-| [<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40">](https://jupyter.org) |
-|---|
-| Jupyter |
+| [<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40">](https://jupyter.org) 
+| [<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="40" height="40">](https://www.r-project.org) |
+|---|---|
+| Jupyter | Anaconda |
