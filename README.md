@@ -3,6 +3,7 @@
 ---
 
 ### 🛠 &nbsp;Languages and Tools :
-<p>
-  <img src="Img/python-original.svg" alt="python" width="40" height="40">
-</p>
+<a href="https://docs.python.org/3/" target="_blank">
+    <img src="Img/python-original.svg" alt="python" width="40" height="40">
+</a>
+
