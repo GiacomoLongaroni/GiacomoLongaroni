@@ -1,6 +1,3 @@
-## Hi there 👋
-
----
 
 ### 🛠 &nbsp;Languages and Tools :
 <a href="https://docs.python.org/3/" target="_blank">
