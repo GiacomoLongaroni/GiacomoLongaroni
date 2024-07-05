@@ -10,9 +10,9 @@
 
 ### Machine Learning Libraries 📚🤖
 [<img src="https://github.com/devicons/devicon/blob/master/icons/scikitlearn/scikitlearn-original.svg" alt="Sklearn" width="40" height="40">](https://scikit-learn.org/stable/) &nbsp;&nbsp;&nbsp;
-[<img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original-wordmark.svg" alt="Keras" width="40" height="40">](https://keras.io/) &nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40">](https://pytorch.org/) &nbsp;&nbsp;&nbsp;
 [<img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo.png" alt="PyTorch Geometric" width="40" height="40">](https://pytorch-geometric.readthedocs.io/en/latest/)
+[<img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original-wordmark.svg" alt="Keras" width="40" height="40">](https://keras.io/) &nbsp;&nbsp;&nbsp;
 
 ### Data Visualization and Manipulation 📊🔧
 [<img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40">](https://numpy.org/) &nbsp;&nbsp;&nbsp;
