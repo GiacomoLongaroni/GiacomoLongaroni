@@ -1,7 +1,7 @@
 
-### 🛠💻 &nbsp;Dev :
+# 🛠💻 &nbsp;Dev :
 
-## Languages
+### Languages
 <a href="https://docs.python.org/3/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40">
 </a>
@@ -9,7 +9,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40">
 </a>
 
-## Tools
+### Tools
 <a href="https://jupyter.org" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40">
 </a>
