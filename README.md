@@ -23,4 +23,4 @@
 [<img src="https://ggplot2.tidyverse.org/logo.png" alt="ggplot2" width="40" height="40">](https://ggplot2.tidyverse.org/) &nbsp;&nbsp;&nbsp;
 [<img src="https://igraph.org/img/igraph_logo_white.svg" alt="igraph" width="40" height="40">](https://igraph.org/r/) &nbsp;&nbsp;&nbsp;
 [<img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Tidyverse_hex_logo.png" alt="Tidyverse" width="40" height="40">](https://www.tidyverse.org/)&nbsp;&nbsp;&nbsp;
-[<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="Mysql" width="40" height="40">](https://www.mysql.com/it/)
+[<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="Mysql" width="60" height="40">](https://www.mysql.com/it/)
