@@ -4,6 +4,6 @@
 | Python | R |
 
 ### Tools
-| [<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40">](https://jupyter.org) | [<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" alt="Anaconda" width="40" height="40">](https://www.anaconda.com/) |
-|---|---|
-| Jupyter | Anaconda |
+| [<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40">](https://jupyter.org) | [<img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" alt="Anaconda" width="40" height="40">](https://www.anaconda.com/) | [<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40">](https://github.com/) |
+|---|---|---|
+| Jupyter | Anaconda | GitHub |
