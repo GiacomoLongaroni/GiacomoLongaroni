@@ -2,7 +2,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GiacomoLongaroni)](https://github.com/GiacomoLongaroni/github-readme-stats)
 
 ---
-### Languages 🚀
+### Main Languages 🚀
 [<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="40" height="40">](https://docs.python.org/3/) &nbsp;&nbsp;&nbsp;
 [<img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" alt="R" width="40" height="40">](https://www.r-project.org)&nbsp;&nbsp;&nbsp;
 
